@@ -3,7 +3,7 @@
 This is a simple medical diagnosis system implemented using the kanren library in Python. It uses a set of predefined symptoms and corresponding diagnoses to suggest potential diseases based on the symptoms entered by a user.
 
 ## Requirements
-Python 3
+Python 3,
 kanren library
 
 ## How to Use
